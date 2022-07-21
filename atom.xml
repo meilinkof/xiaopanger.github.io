@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://xiaoxiaopanger.github.io</id>
+    <title>小胖儿</title>
+    <updated>2022-07-21T03:47:21.396Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://xiaoxiaopanger.github.io"/>
+    <link rel="self" href="https://xiaoxiaopanger.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://xiaoxiaopanger.github.io/images/avatar.png</logo>
+    <icon>https://xiaoxiaopanger.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 小胖儿</rights>
+    <entry>
+        <title type="html"><![CDATA[test ]]></title>
+        <id>https://xiaoxiaopanger.github.io/post/test/</id>
+        <link href="https://xiaoxiaopanger.github.io/post/test/">
+        </link>
+        <updated>2022-07-20T13:39:42.000Z</updated>
+        <content type="html"><![CDATA[<p>new</p>
+]]></content>
+    </entry>
+</feed>
